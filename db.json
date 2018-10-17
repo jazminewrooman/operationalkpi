@@ -1,0 +1,15 @@
+{
+    "dailyConnectivityKpis": {
+        "2018-10-16": {
+            "monitors":
+                { "active": 1386, "connected": 1354, "disconnected": 32 },
+            "areas":
+                { "active": 129, "disconnected": 2 }
+        }
+    },
+    "areaConnectivityKpis": {
+        "Area-2bdf4e3bc62943ef99695b465d0567a6": {
+            "numberOfDisconnectedDays": 3
+        }
+    }
+}
