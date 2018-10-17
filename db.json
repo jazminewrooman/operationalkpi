@@ -5,6 +5,12 @@
                 { "active": 1386, "connected": 1354, "disconnected": 32 },
             "areas":
                 { "active": 129, "disconnected": 2 }
+        },
+        "2018-10-17": {
+            "monitors":
+                { "active": 1204, "connected": 1058, "disconnected": 22 },
+            "areas":
+                { "active": 76, "disconnected": 3 }
         }
     },
     "areaConnectivityKpis": {
