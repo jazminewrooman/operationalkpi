@@ -14,19 +14,19 @@
         },
         "2018-10-16": {
             "monitors":
-                { "active": 1386, "connected": 1354, "disconnected": 32 },
+                { "active": 186, "connected": 154, "disconnected": 2 },
             "areas":
                 { "active": 129, "disconnected": 2 }
         },
         "2018-10-17": {
             "monitors":
-                { "active": 1204, "connected": 1058, "disconnected": 22 },
+                { "active": 1004, "connected": 108, "disconnected": 12 },
             "areas":
                 { "active": 76, "disconnected": 3 }
         },
         "2018-10-18": {
             "monitors":
-                { "active": 1386, "connected": 1354, "disconnected": 32 },
+                { "active": 1577, "connected": 1311, "disconnected": 321 },
             "areas":
                 { "active": 129, "disconnected": 2 }
         },
@@ -38,7 +38,7 @@
         },
         "2018-10-20": {
             "monitors":
-                { "active": 1204, "connected": 1058, "disconnected": 22 },
+                { "active": 124, "connected": 108, "disconnected": 2 },
             "areas":
                 { "active": 76, "disconnected": 3 }
         }
