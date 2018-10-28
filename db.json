@@ -139,6 +139,18 @@
         },
         "Area-60a75344bd304c10a03688e50099fab8": {
             "numberOfDisconnectedDays": 3
+        },
+                "Area-2bdf4e3bc62943ef99695b465d0567a6": {
+            "numberOfDisconnectedDays": 3
+        },
+        "Area-0de5cd231cf74afeb1e9955b773abfa1": {
+            "numberOfDisconnectedDays": 5
+        },
+        "Area-82d2fefe32164587980dd84eb5f1f2af": {
+            "numberOfDisconnectedDays": 1
+        },
+        "Area-60a75344bd304c10a03688e50099fab8": {
+            "numberOfDisconnectedDays": 3
         }
     }
 }
