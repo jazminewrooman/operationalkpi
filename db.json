@@ -4,25 +4,25 @@
             "monitors":
                 { "active": 1386, "connected": 1354, "disconnected": 32 },
             "areas":
-                { "active": 129, "disconnected": 2 }
+                { "active": 129, "disconnected": 20 }
         },
         "2018-10-01": {
             "monitors":
                 { "active": 1204, "connected": 1058, "disconnected": 22 },
             "areas":
-                { "active": 76, "disconnected": 3 }
+                { "active": 76, "disconnected": 30 }
         },
         "2018-10-02": {
             "monitors":
                 { "active": 186, "connected": 154, "disconnected": 2 },
             "areas":
-                { "active": 129, "disconnected": 2 }
+                { "active": 129, "disconnected": 20 }
         },
         "2018-10-03": {
             "monitors":
                 { "active": 1004, "connected": 108, "disconnected": 12 },
             "areas":
-                { "active": 76, "disconnected": 3 }
+                { "active": 76, "disconnected": 30 }
         },
         "2018-10-04": {
             "monitors":
@@ -34,19 +34,19 @@
             "monitors":
                 { "active": 1204, "connected": 1058, "disconnected": 22 },
             "areas":
-                { "active": 76, "disconnected": 3 }
+                { "active": 76, "disconnected": 35 }
         },
         "2018-10-06": {
             "monitors":
                 { "active": 124, "connected": 108, "disconnected": 2 },
             "areas":
-                { "active": 76, "disconnected": 3 }
+                { "active": 76, "disconnected": 35 }
         },
         "2018-10-07": {
             "monitors":
                 { "active": 1386, "connected": 1354, "disconnected": 32 },
             "areas":
-                { "active": 129, "disconnected": 2 }
+                { "active": 129, "disconnected": 25 }
         },
         "2018-10-08": {
             "monitors":
