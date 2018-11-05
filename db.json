@@ -223,6 +223,9 @@
         },
         "Area-3286a18423664a4789cee3390b35ca1c": {
             "numberOfDisconnectedDays": 3
+        },
+        "Area-97b0db4caffa4bc98ce8df972a45ba9f": {
+            "numberOfDisconnectedDays": 1
         }
     }
 }
